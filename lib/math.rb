@@ -19,5 +19,5 @@ return num1.remainder(num2)
 end
 
 def square_root(num)
-return num**(1/2)
+return num.sqrt
 end
